@@ -1,4 +1,4 @@
-# Artificial Intelligence Based Methods in Credit Card Fraud Detection
+# Fraud Detection System Using Artificial Intelligence
 
 This project aims to develop an AI-based system for fraud detection. The system utilizes machine learning techniques to identify fraudulent activities in financial transactions.
 
@@ -14,7 +14,7 @@ This project aims to develop an AI-based system for fraud detection. The system 
 
 ## Project Description
 
-The AI-Based Fraud Detection project leverages advanced machine learning algorithms to detect fraudulent transactions. By analyzing a given dataset, the system learns patterns and characteristics associated with fraudulent activities, allowing it to classify new transactions as either fraudulent or legitimate.
+TheFraud Detection System Using Artificial Intelligence project leverages advanced machine learning algorithms to detect fraudulent transactions. By analyzing a given dataset, the system learns patterns and characteristics associated with fraudulent activities, allowing it to classify new transactions as either fraudulent or legitimate.
 
 The project includes several key components:
 
@@ -25,7 +25,7 @@ The project includes several key components:
 
 ## Installation
 
-To install and set up the AI-Based Fraud Detection project, follow these steps:
+To install and set up the Fraud Detection System Using Artificial Intelligence, follow these steps:
 
 1. Clone the repository:
 
